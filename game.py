@@ -35,7 +35,7 @@ while True:
         else:
             print("You lose ,Rock smashes scissors!")
 
-    #Asking the user if they wanna play again
+    #Asking the user if they want to play again
     playAgain = input("Would you like to play again? (y/n): ")
     if playAgain.lower() != "y":
 	print("Thanks for Playing ")
