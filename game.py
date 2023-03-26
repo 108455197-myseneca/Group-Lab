@@ -38,4 +38,6 @@ while True:
     #Asking the user if they wanna play again
     playAgain = input("Would you like to play again? (y/n): ")
     if playAgain.lower() != "y":
+	print("Thanks for Playing ")
         break
+
