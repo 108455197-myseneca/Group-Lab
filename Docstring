@@ -1,1 +1,4 @@
 
+The scope of this project is create a way to play a game of Rock, Paper, Scissors through python to submit on github. 
+In this project, we start from designing the instruction of how to play the game of Rock, Paper, Scissors through a workflow chart we created. 
+Then from that we develop the game with python and then test it out to see if it works. After all that is done, we finally deploy the final copy onto our main repository in github with codes included.
